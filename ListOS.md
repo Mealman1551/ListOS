@@ -65,93 +65,13 @@
 
 ## Debian
 
-- [Debian 0.90 (Buzz) 32bit](http://mirror.as35701.net/debian-cd/old/0.90/i386/iso-dvd/debian-0.90-i386-binary-1.iso)
-- [Debian 1.0 (Hamm) 32bit](http://mirror.as35701.net/debian-cd/old/1.0/i386/iso-dvd/debian-1.0-i386-binary-1.iso)
-- [Debian 1.1 (Slink) 32bit](http://mirror.as35701.net/debian-cd/old/1.1/i386/iso-dvd/debian-1.1-i386-binary-1.iso)
-- [Debian 1.2 (Potato) 32bit](http://mirror.as35701.net/debian-cd/old/1.2/i386/iso-dvd/debian-1.2-i386-binary-1.iso)
-- [Debian 1.3 (POTATO) 32bit](http://mirror.as35701.net/debian-cd/old/1.3/i386/iso-dvd/debian-1.3-i386-binary-1.iso)
-- [Debian 2.0 (Hamm) 32bit](http://mirror.as35701.net/debian-cd/old/2.0/i386/iso-dvd/debian-2.0-i386-binary-1.iso)
-- [Debian 2.1 (Slink) 32bit](http://mirror.as35701.net/debian-cd/old/2.1/i386/iso-dvd/debian-2.1-i386-binary-1.iso)
-- [Debian 2.2 (Potato) 32bit](http://mirror.as35701.net/debian-cd/old/2.2/i386/iso-dvd/debian-2.2-i386-binary-1.iso)
-- [Debian 3.0 (Woody) 32bit](http://mirror.as35701.net/debian-cd/old/3.0/i386/iso-dvd/debian-3.0-i386-binary-1.iso)
-- [Debian 3.1 (Sarge) 32bit](http://mirror.as35701.net/debian-cd/old/3.1/i386/iso-dvd/debian-3.1-i386-binary-1.iso)
-- [Debian 4.0 (Etch) 32bit](http://mirror.as35701.net/debian-cd/old/4.0/i386/iso-dvd/debian-4.0-i386-binary-1.iso)
-- [Debian 5.0 (Lenny) 32bit](http://mirror.as35701.net/debian-cd/old/5.0/i386/iso-dvd/debian-5.0-i386-binary-1.iso)
-- [Debian 6.0 (Squeeze) 32bit](http://mirror.as35701.net/debian-cd/old/6.0/i386/iso-dvd/debian-6.0-i386-binary-1.iso)
-- [Debian 7.0 (Wheezy) 32bit](http://mirror.as35701.net/debian-cd/old/7.0/i386/iso-dvd/debian-7.0-i386-binary-1.iso)
-- [Debian 8.0 (Jessie) 32bit](http://mirror.as35701.net/debian-cd/old/8.0/i386/iso-dvd/debian-8.0-i386-binary-1.iso)
-- [Debian 9.0 (Stretch) 32bit](http://mirror.as35701.net/debian-cd/old/9.0/i386/iso-dvd/debian-9.0-i386-binary-1.iso)
-- [Debian 10.0 (Buster) 32bit](http://mirror.as35701.net/debian-cd/old/10.0/i386/iso-dvd/debian-10.0-i386-binary-1.iso)
-- [Debian 11.0 (Bullseye) 64bit](http://mirror.as35701.net/debian-cd/old/11.0/amd64/iso-dvd/debian-11.0-amd64-dvd-1.iso)
-- [Debian 12.0 (Bookworm) 64bit](http://mirror.as35701.net/debian-cd/current/amd64/iso-dvd/debian-12.0-amd64-dvd-1.iso)
+- [Debian 12.0 (Bookworm) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/bookworm_di_rc4/amd64/iso-dvd/debian-bookworm-DI-rc4-amd64-DVD-1.iso)
 
 ## Mint
 
-- [Linux Mint 1.0 (Ada) 32bit](http://mirror.as35701.net/linuxmint.com/stable/1.0/linuxmint-1.0-ada-i386.iso)
-- [Linux Mint 2.0 (Barbara) 32bit](http://mirror.as35701.net/linuxmint.com/stable/2.0/linuxmint-2.0-barbara-i386.iso)
-- [Linux Mint 3.0 (Cassandra) 32bit](http://mirror.as35701.net/linuxmint.com/stable/3.0/linuxmint-3.0-cassandra-i386.iso)
-- [Linux Mint 4.0 (Daryna) 32bit](http://mirror.as35701.net/linuxmint.com/stable/4.0/linuxmint-4.0-daryna-i386.iso)
-- [Linux Mint 5.0 (Elyssa) 32bit](http://mirror.as35701.net/linuxmint.com/stable/5.0/linuxmint-5.0-elyssa-i386.iso)
-- [Linux Mint 6.0 (Felicia) 32bit](http://mirror.as35701.net/linuxmint.com/stable/6.0/linuxmint-6.0-felicia-i386.iso)
-- [Linux Mint 7.0 (Gloria) 32bit](http://mirror.as35701.net/linuxmint.com/stable/7.0/linuxmint-7.0-gloria-i386.iso)
-- [Linux Mint 8.0 (Helena) 32bit](http://mirror.as35701.net/linuxmint.com/stable/8.0/linuxmint-8.0-helena-i386.iso)
-- [Linux Mint 9.0 (Isadora) 32bit](http://mirror.as35701.net/linuxmint.com/stable/9.0/linuxmint-9.0-isadora-i386.iso)
-- [Linux Mint 10.0 (Julia) 32bit](http://mirror.as35701.net/linuxmint.com/stable/10.0/linuxmint-10.0-julia-i386.iso)
-- [Linux Mint 11.0 (Katya) 32bit](http://mirror.as35701.net/linuxmint.com/stable/11.0/linuxmint-11.0-katya-i386.iso)
-- [Linux Mint 12.0 (Lisa) 32bit](http://mirror.as35701.net/linuxmint.com/stable/12.0/linuxmint-12.0-lisa-i386.iso)
-- [Linux Mint 13.0 (Maya) 32bit](http://mirror.as35701.net/linuxmint.com/stable/13.0/linuxmint-13.0-maya-i386.iso)
-- [Linux Mint 14.0 (Nadia) 32bit](http://mirror.as35701.net/linuxmint.com/stable/14.0/linuxmint-14.0-nadia-i386.iso)
-- [Linux Mint 15.0 (Olivia) 32bit](http://mirror.as35701.net/linuxmint.com/stable/15.0/linuxmint-15.0-olivia-i386.iso)
-- [Linux Mint 16.0 (Petra) 32bit](http://mirror.as35701.net/linuxmint.com/stable/16.0/linuxmint-16.0-petra-i386.iso)
-- [Linux Mint 17.0 (Qiana) 64bit](http://mirror.as35701.net/linuxmint.com/stable/17.0/linuxmint-17.0-qiana-amd64.iso)
-- [Linux Mint 18.0 (Sarah) 64bit](http://mirror.as35701.net/linuxmint.com/stable/18.0/linuxmint-18.0-sarah-amd64.iso)
-- [Linux Mint 19.0 (Tara) 64bit](http://mirror.as35701.net/linuxmint.com/stable/19.0/linuxmint-19.0-tara-amd64.iso)
-- [Linux Mint 20.0 (Ulyana) 64bit](http://mirror.as35701.net/linuxmint.com/stable/20.0/linuxmint-20.0-ulyana-amd64.iso)
-- [Linux Mint 21.0 (Vanessa) 64bit](http://mirror.as35701.net/linuxmint.com/stable/21.0/linuxmint-21.0-vanessa-amd64.iso)
+- [Linux Mint 22.0 (Wilma) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso)
 
 ## Fedora
-
-- [Fedora 10 (Cambridge) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/10/Spins/i386/Fedora-10-i386-Live.iso)
-- [Fedora 10 (Cambridge) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/10/Spins/x86_64/Fedora-10-x86_64-Live.iso)
-- [Fedora 11 (Leonidas) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/11/Spins/i386/Fedora-11-i386-Live.iso)
-- [Fedora 11 (Leonidas) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/11/Spins/x86_64/Fedora-11-x86_64-Live.iso)
-- [Fedora 12 (Constantine) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/12/Spins/i386/Fedora-12-i386-Live.iso)
-- [Fedora 12 (Constantine) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/12/Spins/x86_64/Fedora-12-x86_64-Live.iso)
-- [Fedora 13 (Goddard) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/13/Spins/i386/Fedora-13-i386-Live.iso)
-- [Fedora 13 (Goddard) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/13/Spins/x86_64/Fedora-13-x86_64-Live.iso)
-- [Fedora 14 (Laughlin) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/14/Spins/i386/Fedora-14-i386-Live.iso)
-- [Fedora 14 (Laughlin) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/14/Spins/x86_64/Fedora-14-x86_64-Live.iso)
-- [Fedora 15 (Lovelock) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/15/Spins/i386/Fedora-15-i386-Live.iso)
-- [Fedora 15 (Lovelock) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/15/Spins/x86_64/Fedora-15-x86_64-Live.iso)
-- [Fedora 16 (Verne) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/16/Spins/i386/Fedora-16-i386-Live.iso)
-- [Fedora 16 (Verne) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/16/Spins/x86_64/Fedora-16-x86_64-Live.iso)
-- [Fedora 17 (Beefy Miracle) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/17/Spins/i386/Fedora-17-i386-Live.iso)
-- [Fedora 17 (Beefy Miracle) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/17/Spins/x86_64/Fedora-17-x86_64-Live.iso)
-- [Fedora 18 (Spherical Cow) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/18/Spins/i386/Fedora-18-i386-Live.iso)
-- [Fedora 18 (Spherical Cow) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/18/Spins/x86_64/Fedora-18-x86_64-Live.iso)
-- [Fedora 19 (Schrödinger's Cat) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/19/Spins/i386/Fedora-19-i386-Live.iso)
-- [Fedora 19 (Schrödinger's Cat) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/19/Spins/x86_64/Fedora-19-x86_64-Live.iso)
-- [Fedora 20 (Heisenbug) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/20/Spins/i386/Fedora-20-i386-Live.iso)
-- [Fedora 20 (Heisenbug) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/20/Spins/x86_64/Fedora-20-x86_64-Live.iso)
-- [Fedora 21 (Twenty One) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/21/Spins/i386/Fedora-21-i386-Live.iso)
-- [Fedora 21 (Twenty One) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/21/Spins/x86_64/Fedora-21-x86_64-Live.iso)
-- [Fedora 22 (Rawhide) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/22/Spins/i386/Fedora-22-i386-Live.iso)
-- [Fedora 22 (Rawhide) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/22/Spins/x86_64/Fedora-22-x86_64-Live.iso)
-- [Fedora 23 (Mikado) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/23/Spins/i386/Fedora-23-i386-Live.iso)
-- [Fedora 23 (Mikado) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/23/Spins/x86_64/Fedora-23-x86_64-Live.iso)
-- [Fedora 24 (Befriending) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/24/Spins/i386/Fedora-24-i386-Live.iso)
-- [Fedora 24 (Befriending) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/24/Spins/x86_64/Fedora-24-x86_64-Live.iso)
-- [Fedora 25 (Aubergine) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/25/Spins/i386/Fedora-25-i386-Live.iso)
-- [Fedora 25 (Aubergine) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/25/Spins/x86_64/Fedora-25-x86_64-Live.iso)
-- [Fedora 26 (The Melodic) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/26/Spins/i386/Fedora-26-i386-Live.iso)
-- [Fedora 26 (The Melodic) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/26/Spins/x86_64/Fedora-26-x86_64-Live.iso)
-- [Fedora 27 (Spherical Cow) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/27/Spins/i386/Fedora-27-i386-Live.iso)
-- [Fedora 27 (Spherical Cow) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/27/Spins/x86_64/Fedora-27-x86_64-Live.iso)
-- [Fedora 28 (Zesty Zebra) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/28/Spins/i386/Fedora-28-i386-Live.iso)
-- [Fedora 28 (Zesty Zebra) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/28/Spins/x86_64/Fedora-28-x86_64-Live.iso)
-- [Fedora 29 (Magenta) 32bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/29/Spins/i386/Fedora-29-i386-Live.iso)
-- [Fedora 29 (Magenta) 64bit ISO](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/29/Spins/x86_64/Fedora-29-x86_64-Live.iso)
-#### More soon
 
 - [Fedora 41 (Fourty One) 64bit ISO](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
 
@@ -164,9 +84,9 @@
 
 ## Kali Linux
 
-- [Kali Linux 24.03 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
-
 - [Kali Linux 24.03 32bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-i386.iso)
+
+- [Kali Linux 24.03 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
 
 - [Kali Linux Purple 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3a-installer-purple-amd64.iso)
 
@@ -177,6 +97,8 @@
 - [OpenSUZE Leap 15.6](https://download.opensuse.org/distribution/leap/15.6/iso/openSUSE-Leap-15.6-DVD-x86_64-Media.iso)
 
 - [MicroOS](https://download.opensuse.org/tumbleweed/iso/openSUSE-MicroOS-DVD-x86_64-Current.iso)
+
+# __________________________________________
 
 ### More soon...
 
