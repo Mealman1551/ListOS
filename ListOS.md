@@ -110,13 +110,8 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [FreeBSD 14.1 ](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.1/FreeBSD-14.1-RELEASE-amd64-dvd1.iso)
 
-# __________________________________________
+---
 
 ### More soon...
 
 ###### © 2024 Mealman1551
-
-
-
-
-
