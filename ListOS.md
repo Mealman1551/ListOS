@@ -2,23 +2,23 @@
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
-# Windows <img src='https://maxcdn.icons8.com/groups/benefits/icon/windows.svg' width=25>
+# Windows <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg' width=25>
 
-## Windows 8.1
+## Windows 8.1 <img src='https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg' width=25>
 
 - [Windows 8.1 En-US 32bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x32.iso?t=6be239ad-1675-4abb-b305-cb4427656b42&P1=1730377394&P2=601&P3=2&P4=MO4WWHi7SR1MeSjW2%2fqrUHYWj4K495E8hcPB9vbg%2bkF2Xt4UIPd%2fCuoc5vZkBUFqaZyaFIUKCe1wdAnLXRNtF72djO6akNgHoHd0jeBo9Yc1zqOIXY1Pk2d2keipQTHXlhjm3Y6qmahjE%2bSs6vCTi01mLiAqixfHPMtCRuR7v%2bBoJdThcJLrXKPiiHFg9tCKgsb%2flz3hbMzBuR6iZU2l%2bPXYf8tIuA6LH12Pv2FmGbQboXJ%2fZCPeYZiHq1bTwf9ACCyGa6c47uM5FGAF88SsTpi%2f%2fBct2sAXDaBtNgctLveEboYmQfWfl4EQzUVfCry5WL3R5JYCbwMonE97mO5CVA%3d%3d)
 
 - [Windows 8.1 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x64.iso?t=6be239ad-1675-4abb-b305-cb4427656b42&P1=1730377394&P2=601&P3=2&P4=ZwwGbWaIAr9kgHctLTP3Q7rJaPan44Oy%2byuaS%2bpa0nZO3YylPpYGGIBuu7MWnIDxtFgXOkXVUSLsRO%2fRxrWS6lKcU5RNqBVhT2lfsFSfcHxKvShURVWOcLFkG45cPkqN4eACRc6urfWHohUiPk6DIGadWYfQ%2fgfhYY9Dc%2fSueIUnHZ79iHCL5enndWyJhd4%2fvn24YCFeGRrdaRBwCkn7IMX%2b1BWEZSHu6pXFOmnv3wxCFJ%2fqtSDaXnpf40VaaRUP%2fMzw8wHGY2VrtDNalVtgv%2feIj1XC%2b1iOjG7xT7OY0m%2biYwQy3Eku8ZLZGDoa9axh1%2bLlKRSP2jalFQtAJ6Oegw%3d%3d)
 
-## Windows 10
+## Windows 10 <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_logo_-_2012_%28dark_blue%2C_lines_thinner%29.svg' width=25>
 
 - [Windows 10 En-US 32bit](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x32v1.iso?t=1fae8075-bd19-4ac0-a196-7542852f3eef&P1=1730377539&P2=601&P3=2&P4=P%2b%2bZ4ioD9GRxUeRvpL0rtu%2f6lzvd2WDxlbIJurCtBi4KkRY%2fVITMU0o0KscZ9IbHiHBzfFiqAad%2fSn6dqadRDQzxZd2cA%2bU11M%2fbZKyw6v9G%2bOELrMTysp2J7XvO%2fa9DAgHU3IMBVzLXNSPqhfNKI3sLxU9%2bbRWr%2b6QEhdTvCJckx%2bMrX2MwtO80U9O3%2fJiyQ45q1HSzlv4yCqmv7jmqxb1eMY%2fMkitA77dZWPpjm5fAWeHQtdN8w8mNf6J%2bxLJM%2fOdKgiW15BcUwKeX93KK2CwGp%2fRduWKJo7YqjqVxWqykmhKN0j4ZmweCEXXq%2bKwAG7SFs9fTv8M3x%2f54hs3ZUQ%3d%3d)
 
 - [Windows 10 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=1fae8075-bd19-4ac0-a196-7542852f3eef&P1=1730377539&P2=601&P3=2&P4=TReCNnEhpNhOKaoI9eRBMrdZl6Ph63NcWRwSshjEkNYugeARgnW7X%2bad4NJDogD2CTQ1GPld6QB5Uuo3anyQOosse8K%2f9fOSsBVuO570QhB5uvrRzOfOjuiBwZmmbPlPik%2fISPsVrbGieT8Knkz%2bqd1WChGHptVHcWwo6%2f0HKqO%2fy8NI%2bpVLV8%2bYOc3bdOfD0okOSBPo9OU8y%2fHTaJdmC8WGz89uAxzIqeZJAI21rifJutxnt1rdb1V03l2mvtookxvd68JMETJOBkk8uLsKpfvlGrq3NTogEra3GZU5Kg4JUj%2baQ2FAGRCdZmQ9Jkq%2bJB0NLzooImgSyM79j3jqtw%3d%3d)
 
-## Windows 11
+## Windows 11 <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg' width=25>
 
-- [Windows 11 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=5dc384be-ce75-4efe-aed6-1c9097250a00&P1=1730377641&P2=601&P3=2&P4=LGvl4oVUItzb7ydsYRTZt6EzyeNuEI4fqwJYSkATj2MM%2fwDSkE5fKxDNXoZgMZFOoTthfeEi0LrbxdfzQ7w%2fxk6ni7u%2ff9oY8EMX%2bJlDg8EWveq0gniLhxKrNICEYPUbojOlEgU1nVqnlqw%2bGidQUwxuNGWd5QFaxMgZ00WeLk3oGfz9g%2fsEQ7KBSPW%2bBBMESCI1n9IAxdgCNqIGWGfEWDQOWgAhY0iqMrFXxSgvx5nO8z0NgUXMAMzt7%2fPFYwK6kmKT9PNRDNVf7H7xGkT0WrHPKZGbaSSdDIYjc4tzCfydzG5PPFPNYznG36YAepuBMsZ0MOGjKok2cUFolHlx4g%3d%3d)
+- [Windows 11 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=5dc384be-ce75-4efe-aed6-1c9097250a00&P1=1730377641&P2=601&P3=2&P4=LGvl4oVUItzb7ydsYRTZt6EzyeNuEI4fqwJYSkATj2MM%2fwDSkE5fKxDNXoZgMZFOoTthfeEi0LrbxdfzQ7w%2fxk6ni7u%2ff9oY8EMX%2bJlDg8EWveq0gniLhxKrNICEYPUbojOlEgU1nVqnlqw%2bGidQUwxuNGWd5QFaxMgZ00WeLk3oGfz9g%2fsEQ7KBSPW%2bBBMESCI1n9IAxdgCNqIGWGfEWDQOWgAhY0iqMrFXxSgvx5nO8z0NgUXMAMzt7%2fPFYwK6kmKT9PNRDNVf7H7xGkT0WrHPKZGbaSSdDIYjc4tzCfydzG5PPFPNYznG36YAepuBMsZ0MOGjKok2cUFolHlx4g%3d%3d) 
 
 # Linux <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' width="25">
 
