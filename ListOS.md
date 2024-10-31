@@ -73,7 +73,7 @@
 
 ## Fedora
 
-- [Fedora 41 (Fourty One) 64bit ISO](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
+- [Fedora 41 (Fourty One) 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
 
 ## Red Star OS (Korean)
 - [Red Star OS 3.0 32bit](https://drive.usercontent.google.com/download?id=1G2hLOXBR44ZT2dOyC7HkVrplqrsenwtA&export=download&authuser=0&confirm=t&uuid=8f2bac73-9ae1-4f50-80ff-9609b35cccfe&at=AN_67v0h0CTaKL5YBEOcDRGZSI9v%3A1730294873983)
