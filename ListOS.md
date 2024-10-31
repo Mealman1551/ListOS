@@ -2,7 +2,7 @@
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
-# Windows <img src='https://maxcdn.icons8.com/groups/benefits/icon/windows.svg'>
+# Windows <img src='https://maxcdn.icons8.com/groups/benefits/icon/windows.svg' width=25>
 
 ## Windows 8.1
 
@@ -20,9 +20,9 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [Windows 11 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=5dc384be-ce75-4efe-aed6-1c9097250a00&P1=1730377641&P2=601&P3=2&P4=LGvl4oVUItzb7ydsYRTZt6EzyeNuEI4fqwJYSkATj2MM%2fwDSkE5fKxDNXoZgMZFOoTthfeEi0LrbxdfzQ7w%2fxk6ni7u%2ff9oY8EMX%2bJlDg8EWveq0gniLhxKrNICEYPUbojOlEgU1nVqnlqw%2bGidQUwxuNGWd5QFaxMgZ00WeLk3oGfz9g%2fsEQ7KBSPW%2bBBMESCI1n9IAxdgCNqIGWGfEWDQOWgAhY0iqMrFXxSgvx5nO8z0NgUXMAMzt7%2fPFYwK6kmKT9PNRDNVf7H7xGkT0WrHPKZGbaSSdDIYjc4tzCfydzG5PPFPNYznG36YAepuBMsZ0MOGjKok2cUFolHlx4g%3d%3d)
 
-# Linux
+# Linux <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' width="25">
 
-## Ubuntu (Only 64 downloads)
+## Ubuntu (Only 64 downloads) <img src='https://upload.wikimedia.org/wikipedia/commons/0/00/Ubuntu-logo-no-wordmark-2022.svg' width=25>
 
 - [Ubuntu 4.10 (Warty Warthog) 64bit](https://old-releases.ubuntu.com/releases/warty/warty-release-install-amd64.iso)
 - [Ubuntu 5.04 (Hoary Hedgehog) 64bit](https://old-releases.ubuntu.com/releases/5.04/ubuntu-5.04-install-amd64.iso)
@@ -67,28 +67,28 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 - [Ubuntu 24.10 (Oracular Oriole) 64bit](https://releases.ubuntu.com/oracular/ubuntu-24.10-desktop-amd64.iso)
 
 
-## Debian
+## Debian <img src='https://www.debian.org/logos/openlogo-nd.svg' width=25>
 
 - [Debian 12.0 (Bookworm) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/bookworm_di_rc4/amd64/iso-dvd/debian-bookworm-DI-rc4-amd64-DVD-1.iso)
 
-## Mint
+## Mint <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg' width=25>
 
 - [Linux Mint 22.0 (Wilma) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso)
 
 - [LMDE (Linux Mint Debian Edition) 6.0 (Faye) 64bit](https://mirrors.cicku.me/linuxmint/iso/debian/lmde-6-cinnamon-64bit.iso)
 
-## Fedora
+## Fedora <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg' width=25>
 
 - [Fedora 41 (Fourty One) 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
 
-## Red Star OS (Korean)
+## Red Star OS (Korean) <img src='https://upload.wikimedia.org/wikipedia/commons/e/eb/Red_Star_OS_Logo.svg' width=25>
 - [Red Star OS 3.0 32bit](https://drive.usercontent.google.com/download?id=1G2hLOXBR44ZT2dOyC7HkVrplqrsenwtA&export=download&authuser=0&confirm=t&uuid=8f2bac73-9ae1-4f50-80ff-9609b35cccfe&at=AN_67v0h0CTaKL5YBEOcDRGZSI9v%3A1730294873983)
 
-## I Use Arch BTW (haha, no)
+## I Use Arch BTW (haha, no) <img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width=25>
 
 - [Arch 2024.10.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.10.01/)
 
-## Kali Linux
+## Kali Linux <img src='https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg' width=35>
 
 - [Kali Linux 24.03 32bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-i386.iso)
 
@@ -96,7 +96,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [Kali Linux Purple 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3a-installer-purple-amd64.iso)
 
-## OpenSUZE
+## OpenSUSE <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg' width=25>
 
 - [OpenSUZE Tumbleweed](https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso)
 
@@ -104,7 +104,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [MicroOS](https://download.opensuse.org/tumbleweed/iso/openSUSE-MicroOS-DVD-x86_64-Current.iso)
 
-## RaspberryPi OS
+## RaspberryPi OS <img src='https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg' width=25>
 
 - [RaspberryPi OS 32bit](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf.img.xz)
 
@@ -113,7 +113,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 # Unix
 
-## FreeBSD
+## FreeBSD <img src='https://cdn.worldvectorlogo.com/logos/freebsd.svg' width=25>
 
 - [FreeBSD 14.1 ](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.1/FreeBSD-14.1-RELEASE-amd64-dvd1.iso)
 
