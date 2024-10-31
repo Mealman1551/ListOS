@@ -104,6 +104,13 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [MicroOS](https://download.opensuse.org/tumbleweed/iso/openSUSE-MicroOS-DVD-x86_64-Current.iso)
 
+## RaspberryPi OS
+
+- [RaspberryPi OS 32bit](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf.img.xz)
+
+- [RaspberryPi OS 64bit](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64.img.xz)
+
+
 # Unix
 
 ## FreeBSD
