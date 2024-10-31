@@ -2,7 +2,7 @@
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
-# Windows<img src='https://maxcdn.icons8.com/groups/benefits/icon/windows.svg'>
+# Windows <img src='https://maxcdn.icons8.com/groups/benefits/icon/windows.svg'>
 
 ## Windows 8.1
 
