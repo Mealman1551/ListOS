@@ -75,6 +75,8 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [Linux Mint 22.0 (Wilma) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso)
 
+- [LMDE (Linux Mint Debian Edition) 6.0 (Faye) 64bit](https://mirrors.cicku.me/linuxmint/iso/debian/lmde-6-cinnamon-64bit.iso)
+
 ## Fedora
 
 - [Fedora 41 (Fourty One) 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
