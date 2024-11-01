@@ -10,7 +10,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [Windows 8.1 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x64.iso?t=6be239ad-1675-4abb-b305-cb4427656b42&P1=1730377394&P2=601&P3=2&P4=ZwwGbWaIAr9kgHctLTP3Q7rJaPan44Oy%2byuaS%2bpa0nZO3YylPpYGGIBuu7MWnIDxtFgXOkXVUSLsRO%2fRxrWS6lKcU5RNqBVhT2lfsFSfcHxKvShURVWOcLFkG45cPkqN4eACRc6urfWHohUiPk6DIGadWYfQ%2fgfhYY9Dc%2fSueIUnHZ79iHCL5enndWyJhd4%2fvn24YCFeGRrdaRBwCkn7IMX%2b1BWEZSHu6pXFOmnv3wxCFJ%2fqtSDaXnpf40VaaRUP%2fMzw8wHGY2VrtDNalVtgv%2feIj1XC%2b1iOjG7xT7OY0m%2biYwQy3Eku8ZLZGDoa9axh1%2bLlKRSP2jalFQtAJ6Oegw%3d%3d)
 
-## Windows 10 <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_logo_-_2012_%28dark_blue%2C_lines_thinner%29.svg' width=25>
+## Windows 10 <img src='https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg' width=25>
 
 - [Windows 10 En-US 32bit](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x32v1.iso?t=1fae8075-bd19-4ac0-a196-7542852f3eef&P1=1730377539&P2=601&P3=2&P4=P%2b%2bZ4ioD9GRxUeRvpL0rtu%2f6lzvd2WDxlbIJurCtBi4KkRY%2fVITMU0o0KscZ9IbHiHBzfFiqAad%2fSn6dqadRDQzxZd2cA%2bU11M%2fbZKyw6v9G%2bOELrMTysp2J7XvO%2fa9DAgHU3IMBVzLXNSPqhfNKI3sLxU9%2bbRWr%2b6QEhdTvCJckx%2bMrX2MwtO80U9O3%2fJiyQ45q1HSzlv4yCqmv7jmqxb1eMY%2fMkitA77dZWPpjm5fAWeHQtdN8w8mNf6J%2bxLJM%2fOdKgiW15BcUwKeX93KK2CwGp%2fRduWKJo7YqjqVxWqykmhKN0j4ZmweCEXXq%2bKwAG7SFs9fTv8M3x%2f54hs3ZUQ%3d%3d)
 
