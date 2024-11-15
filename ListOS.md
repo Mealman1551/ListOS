@@ -22,7 +22,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 # Linux <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' width="25">
 
-## Ubuntu (Only 64 downloads) <img src='https://upload.wikimedia.org/wikipedia/commons/0/00/Ubuntu-logo-no-wordmark-2022.svg' width=25>
+## Ubuntu (Only 64bit downloads) <img src='https://upload.wikimedia.org/wikipedia/commons/0/00/Ubuntu-logo-no-wordmark-2022.svg' width=25>
 
 - [Ubuntu 4.10 (Warty Warthog) 64bit](https://old-releases.ubuntu.com/releases/warty/warty-release-install-amd64.iso)
 - [Ubuntu 5.04 (Hoary Hedgehog) 64bit](https://old-releases.ubuntu.com/releases/5.04/ubuntu-5.04-install-amd64.iso)
@@ -68,7 +68,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 
 ## Debian <img src='https://www.debian.org/logos/openlogo-nd.svg' width=25>
-(Please note, these are all net-install iso's from Debina 6 to 12!)
+(Please note, these are all net-install iso's from Debian 6 to 12!)
 
 - [Debian 12 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.8.0-amd64-netinst.iso)
 
