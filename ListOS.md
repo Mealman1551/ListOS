@@ -68,8 +68,29 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 
 ## Debian <img src='https://www.debian.org/logos/openlogo-nd.svg' width=25>
+(Please note, these are all net-install iso's from Debina 6 to 12!)
 
-- [Debian 12.0 (Bookworm) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/bookworm_di_rc4/amd64/iso-dvd/debian-bookworm-DI-rc4-amd64-DVD-1.iso)
+- [Debian 12 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.8.0-amd64-netinst.iso)
+
+- [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/cdimage/archive/11.6.0/amd64/iso-cd/debian-11.6.0-amd64-netinst.iso)
+
+- [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.10.0/amd64/iso-cd/debian-10.10.0-amd64-netinst.iso)
+
+- [Debian 9 (Stretch) 64bit](https://cdimage.debian.org/cdimage/archive/9.13.0/amd64/iso-cd/debian-9.13.0-amd64-netinst.iso)
+
+- [Debian 8 (Jessie) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/8.0.0-live/amd64/iso-hybrid/debian-live-8.0.0-amd64-standard.iso)
+
+- [Debian 7 (Wheezy) 64bit](https://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/debian-7.11.0-amd64-CD-1.iso)
+
+- [Debian 6 (Squeeze) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/6.0.10/amd64/iso-dvd/debian-6.0.10-amd64-DVD-1.iso)
+
+- [Debian 5 (Lenny) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/5.0.10/amd64/iso-dvd/debian-5010-amd64-DVD-1.iso)
+
+- [Debian 4 (Etch) 64bit](http://cdimage.debian.org/mirror/cdimage/archive/4.0_r9/amd64/iso-cd/debian-40r9-amd64-netinst.iso)
+
+- [Debian 3 (Woody) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/3.0_r6/i386/iso-dvd/debian-30r6-dvd-i386-binary-1.iso)
+
+- [Debian 2 (Hamm) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/older-contrib/2.0/debian-2.0r0-i386-binary-1.iso)
 
 ## Mint <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg' width=25>
 
