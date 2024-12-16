@@ -107,6 +107,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ## I Use Arch BTW (haha, no) <img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width=25>
 
+- [Arch 2024.12.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.12.01/archlinux-2024.12.01-x86_64.iso)
 - [Arch 2024.10.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.10.01/)
 
 ## Kali Linux <img src='https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg' width=35>
