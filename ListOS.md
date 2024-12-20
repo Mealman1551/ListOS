@@ -112,15 +112,13 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ## Kali Linux <img src='https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg' width=35>
 
-- [Kali Linux 24.04 32bit](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-i386.iso)
-
-- [Kali Linux 24.04 64bit](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-amd64.iso)
+- [Kali Linux 24.04 32/64bits](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-amd64.iso)
 
 - [Kali Linux 24.03 32bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-i386.iso)
 
 - [Kali Linux 24.03 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
 
-- [Kali Linux Purple 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3a-installer-purple-amd64.iso)
+- [Kali Linux Purple 64bit](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-purple-amd64.iso)
 
 ## OpenSUSE <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg' width=25>
 
