@@ -79,6 +79,8 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 - [Debian 4 (Etch) 64bit](http://cdimage.debian.org/mirror/cdimage/archive/4.0_r9/amd64/iso-cd/debian-40r9-amd64-netinst.iso)
 - [Debian 3 (Woody) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/3.0_r6/i386/iso-dvd/debian-30r6-dvd-i386-binary-1.iso)
 - [Debian 2 (Hamm) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/older-contrib/2.0/debian-2.0r0-i386-binary-1.iso)
+### Debian Testing
+- [Debian Testing 64bit](https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-dvd/debian-testing-amd64-DVD-1.iso)
 
 ## Mint <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg' width=25>
 
