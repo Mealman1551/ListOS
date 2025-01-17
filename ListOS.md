@@ -68,7 +68,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 ## Debian <img src='https://www.debian.org/logos/openlogo-nd.svg' width=25>
 (Please note: Debian 4 Etch uses Netinst, I couldn't find a DVD iso!)
 
-- [Debian 12 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.8.0-amd64-DVD-1.iso)
+- [Debian 12 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.9.0-amd64-DVD-1.iso)
 - [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/11.0.0/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso)
 - [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso)
 - [Debian 9 (Stretch) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/9.13.0/amd64/iso-dvd/debian-9.13.0-amd64-DVD-1.iso)
@@ -84,6 +84,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ## Mint <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg' width=25>
 
+- [Linux Mint 22.1 (Xia) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso)
 - [Linux Mint 22.0 (Wilma) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso)
 - [LMDE (Linux Mint Debian Edition) 6.0 (Faye) 64bit](https://mirrors.cicku.me/linuxmint/iso/debian/lmde-6-cinnamon-64bit.iso)
 
@@ -117,6 +118,10 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 - [RaspberryPi OS 32bit](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf.img.xz)
 - [RaspberryPi OS 64bit](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64.img.xz)
+
+## MXLinux
+
+- [MXLinux 23.5 64bit](https://sourceforge.net/projects/mx-linux/files/Final/Xfce/MX-23.5_x64.iso/download)
 
 
 # Unix
