@@ -72,7 +72,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 Latest:
 - [Debian 12.9 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.9.0-amd64-DVD-1.iso)
-
+---
 - [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/11.0.0/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso)
 - [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso)
 - [Debian 9 (Stretch) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/9.13.0/amd64/iso-dvd/debian-9.13.0-amd64-DVD-1.iso)
@@ -88,7 +88,9 @@ Latest:
 
 ## Mint <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg' width=25>
 
+latest:
 - [Linux Mint 22.1 (Xia) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso)
+---
 - [Linux Mint 22.0 (Wilma) 64bit](https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso)
 - [LMDE (Linux Mint Debian Edition) 6.0 (Faye) 64bit](https://mirrors.cicku.me/linuxmint/iso/debian/lmde-6-cinnamon-64bit.iso)
 
@@ -101,6 +103,7 @@ Latest:
 
 ## I Use Arch BTW (haha, no) <img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width=25>
 
+- [Arch 2025.1.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.01.01/)
 - [Arch 2024.12.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.12.01/archlinux-2024.12.01-x86_64.iso)
 - [Arch 2024.11.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.11.01/archlinux-2024.11.01-x86_64.iso)
 - [Arch 2024.10.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.10.01/archlinux-2024.10.01-x86_64.iso)
@@ -123,7 +126,7 @@ Latest:
 - [RaspberryPi OS 32bit](https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2024-10-28/2024-10-22-raspios-bookworm-armhf.img.xz)
 - [RaspberryPi OS 64bit](https://downloads.raspberrypi.com/raspios_arm64/images/raspios_arm64-2024-10-28/2024-10-22-raspios-bookworm-arm64.img.xz)
 
-## MXLinux
+## MXLinux <img src='https://mxlinux.org/wp-content/uploads/2019/01/MX-Menu-icon-pyramids.svg' width=25>
 
 - [MXLinux 23.5 64bit](https://sourceforge.net/projects/mx-linux/files/Final/Xfce/MX-23.5_x64.iso/download)
 
@@ -132,8 +135,9 @@ Latest:
 
 ## FreeBSD <img src='https://cdn.worldvectorlogo.com/logos/freebsd.svg' width=25>
 
-- [FreeBSD 14.1](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.1/FreeBSD-14.1-RELEASE-amd64-dvd1.iso)
 - [FreeBSD 14.2](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.2/FreeBSD-14.2-RELEASE-amd64-dvd1.iso)
+- [FreeBSD 14.1](https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.1/FreeBSD-14.1-RELEASE-amd64-dvd1.iso)
+
 
 ---
 
