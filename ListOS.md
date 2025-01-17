@@ -70,11 +70,8 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ### Debian 12
 
+Latest:
 - [Debian 12.9 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.9.0-amd64-DVD-1.iso)
-- [Debian 12.8 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.8.0-amd64-DVD-1.iso)
-
-
-### Debian other versions
 
 - [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/11.0.0/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso)
 - [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso)
