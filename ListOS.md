@@ -1,5 +1,7 @@
 # ListOS
 
+***Latest revision:*** _16-2-2024_ at _18:00_
+
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 # Windows <img src='https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg' width=25>
@@ -22,57 +24,64 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ## Ubuntu (Only 64bit downloads) <img src='https://upload.wikimedia.org/wikipedia/commons/0/00/Ubuntu-logo-no-wordmark-2022.svg' width=25>
 
-- [Ubuntu 4.10 (Warty Warthog) 64bit](https://old-releases.ubuntu.com/releases/warty/warty-release-install-amd64.iso)
-- [Ubuntu 5.04 (Hoary Hedgehog) 64bit](https://old-releases.ubuntu.com/releases/5.04/ubuntu-5.04-install-amd64.iso)
-- [Ubuntu 5.10 (Breezy Badger) 64bit](https://old-releases.ubuntu.com/releases/5.10/ubuntu-5.10-install-amd64.iso)
-- [Ubuntu 6.06 (Dapper Drake) 64bit](https://old-releases.ubuntu.com/releases/6.06/ubuntu-6.06.1-desktop-amd64.iso)
-- [Ubuntu 6.10 (Edgy Eft) 64bit](https://old-releases.ubuntu.com/releases/6.10/ubuntu-6.10-desktop-amd64.iso)
-- [Ubuntu 7.04 (Feisty Fawn) 64bit](https://old-releases.ubuntu.com/releases/7.04/ubuntu-7.04-desktop-amd64.iso)
-- [Ubuntu 7.10 (Gutsy Gibbon) 64bit](https://old-releases.ubuntu.com/releases/7.10/ubuntu-7.10-desktop-amd64.iso)
-- [Ubuntu 8.04 (Hardy Heron) 64bit](https://old-releases.ubuntu.com/releases/8.04.4/ubuntu-8.04.4-desktop-amd64.iso)
-- [Ubuntu 8.10 (Intrepid Ibex) 64bit](https://old-releases.ubuntu.com/releases/8.10/ubuntu-8.10-desktop-amd64.iso)
-- [Ubuntu 9.04 (Jaunty Jackalope) 64bit](https://old-releases.ubuntu.com/releases/9.04/ubuntu-9.04-desktop-amd64.iso)
-- [Ubuntu 9.10 (Karmic Koala) 64bit](https://old-releases.ubuntu.com/releases/9.10/ubuntu-9.10-desktop-amd64.iso)
-- [Ubuntu 10.04 (Lucid Lynx) 64bit](https://old-releases.ubuntu.com/releases/10.04.4/ubuntu-10.04.4-desktop-amd64.iso)
-- [Ubuntu 10.10 (Maverick Meerkat) 64bit](https://old-releases.ubuntu.com/releases/10.10/ubuntu-10.10-desktop-amd64.iso)
-- [Ubuntu 11.04 (Natty Narwhal) 64bit](https://old-releases.ubuntu.com/releases/11.04/ubuntu-11.04-desktop-amd64.iso)
-- [Ubuntu 11.10 (Oneiric Ocelot) 64bit](https://old-releases.ubuntu.com/releases/11.10/ubuntu-11.10-desktop-amd64.iso)
-- [Ubuntu 12.04 (Precise Pangolin) 64bit](https://old-releases.ubuntu.com/releases/12.04.5/ubuntu-12.04.5-desktop-amd64.iso)
-- [Ubuntu 12.10 (Quantal Quetzal) 64bit](https://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-desktop-amd64.iso)
-- [Ubuntu 13.04 (Raring Ringtail) 64bit](https://old-releases.ubuntu.com/releases/13.04/ubuntu-13.04-desktop-amd64.iso)
-- [Ubuntu 13.10 (Saucy Salamander) 64bit](https://old-releases.ubuntu.com/releases/13.10/ubuntu-13.10-desktop-amd64.iso)
-- [Ubuntu 14.04 (Trusty Tahr) 64bit](https://old-releases.ubuntu.com/releases/14.04.6/ubuntu-14.04.6-desktop-amd64.iso)
-- [Ubuntu 14.10 (Utopic Unicorn) 64bit](https://old-releases.ubuntu.com/releases/14.10/ubuntu-14.10-desktop-amd64.iso)
-- [Ubuntu 15.04 (Vivid Vervet) 64bit](https://old-releases.ubuntu.com/releases/15.04/ubuntu-15.04-desktop-amd64.iso)
-- [Ubuntu 15.10 (Wily Werewolf) 64bit](https://old-releases.ubuntu.com/releases/15.10/ubuntu-15.10-desktop-amd64.iso)
-- [Ubuntu 16.04 (Xenial Xerus) 64bit](https://releases.ubuntu.com/16.04.7/ubuntu-16.04.7-desktop-amd64.iso)
-- [Ubuntu 16.10 (Yakkety Yak) 64bit](https://old-releases.ubuntu.com/releases/16.10/ubuntu-16.10-desktop-amd64.iso)
-- [Ubuntu 17.04 (Zesty Zapus) 64bit](https://old-releases.ubuntu.com/releases/17.04/ubuntu-17.04-desktop-amd64.iso)
-- [Ubuntu 17.10 (Artful Aardvark) 64bit](https://old-releases.ubuntu.com/releases/17.10/ubuntu-17.10-desktop-amd64.iso)
-- [Ubuntu 18.04 (Bionic Beaver) 64bit](https://releases.ubuntu.com/18.04.6/ubuntu-18.04.6-desktop-amd64.iso)
-- [Ubuntu 18.10 (Cosmic Cuttlefish) 64bit](https://old-releases.ubuntu.com/releases/18.10/ubuntu-18.10-desktop-amd64.iso)
-- [Ubuntu 19.04 (Disco Dingo) 64bit](https://old-releases.ubuntu.com/releases/19.04/ubuntu-19.04-desktop-amd64.iso)
-- [Ubuntu 19.10 (Eoan Ermine) 64bit](https://old-releases.ubuntu.com/releases/19.10/ubuntu-19.10-desktop-amd64.iso)
-- [Ubuntu 20.04 (Focal Fossa) 64bit](https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
-- [Ubuntu 20.10 (Groovy Gorilla) 64bit](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso)
-- [Ubuntu 21.04 (Hirsute Hippo) 64bit](https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso)
-- [Ubuntu 21.10 (Impish Indri) 64bit](https://releases.ubuntu.com/21.10/ubuntu-21.10-desktop-amd64.iso)
-- [Ubuntu 22.04 (Jammy Jellyfish) 64bit](https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-desktop-amd64.iso)
-- [Ubuntu 22.10 (Kinetic Kudu) 64bit](https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso)
-- [Ubuntu 23.04 (Lunar Lobster) 64bit](https://releases.ubuntu.com/23.04/ubuntu-23.04-desktop-amd64.iso)
-- [Ubuntu 23.10 (Mantic Minotaur) 64bit](https://releases.ubuntu.com/23.10/ubuntu-23.10-desktop-amd64.iso)
-- [Ubuntu 24.04.1 (Noble Numbat) 64bit](https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso)
+### Latest
+
+#### Release
 - [Ubuntu 24.10 (Oracular Oriole) 64bit](https://releases.ubuntu.com/oracular/ubuntu-24.10-desktop-amd64.iso)
+
+#### LTS
+- [Ubuntu 24.04.1 (Noble Numbat) 64bit](https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso)
+
+### Older
+
+- [Ubuntu 23.10 (Mantic Minotaur) 64bit](https://releases.ubuntu.com/23.10/ubuntu-23.10-desktop-amd64.iso)
+- [Ubuntu 23.04 (Lunar Lobster) 64bit](https://releases.ubuntu.com/23.04/ubuntu-23.04-desktop-amd64.iso)
+- [Ubuntu 22.10 (Kinetic Kudu) 64bit](https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso)
+- [Ubuntu 22.04 (Jammy Jellyfish) 64bit](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)
+- [Ubuntu 21.10 (Impish Indri) 64bit](https://releases.ubuntu.com/21.10/ubuntu-21.10-desktop-amd64.iso)
+- [Ubuntu 21.04 (Hirsute Hippo) 64bit](https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso)
+- [Ubuntu 20.10 (Groovy Gorilla) 64bit](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso)
+- [Ubuntu 20.04 (Focal Fossa) 64bit](https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
+- [Ubuntu 19.10 (Eoan Ermine) 64bit](https://old-releases.ubuntu.com/releases/19.10/ubuntu-19.10-desktop-amd64.iso)
+- [Ubuntu 19.04 (Disco Dingo) 64bit](https://old-releases.ubuntu.com/releases/19.04/ubuntu-19.04-desktop-amd64.iso)
+- [Ubuntu 18.10 (Cosmic Cuttlefish) 64bit](https://old-releases.ubuntu.com/releases/18.10/ubuntu-18.10-desktop-amd64.iso)
+- [Ubuntu 18.04 (Bionic Beaver) 64bit](https://releases.ubuntu.com/18.04.6/ubuntu-18.04.6-desktop-amd64.iso)
+- [Ubuntu 17.10 (Artful Aardvark) 64bit](https://old-releases.ubuntu.com/releases/17.10/ubuntu-17.10-desktop-amd64.iso)
+- [Ubuntu 17.04 (Zesty Zapus) 64bit](https://old-releases.ubuntu.com/releases/17.04/ubuntu-17.04-desktop-amd64.iso)
+- [Ubuntu 16.10 (Yakkety Yak) 64bit](https://old-releases.ubuntu.com/releases/16.10/ubuntu-16.10-desktop-amd64.iso)
+- [Ubuntu 16.04 (Xenial Xerus) 64bit](https://releases.ubuntu.com/16.04.7/ubuntu-16.04.7-desktop-amd64.iso)
+- [Ubuntu 15.10 (Wily Werewolf) 64bit](https://old-releases.ubuntu.com/releases/15.10/ubuntu-15.10-desktop-amd64.iso)
+- [Ubuntu 15.04 (Vivid Vervet) 64bit](https://old-releases.ubuntu.com/releases/15.04/ubuntu-15.04-desktop-amd64.iso)
+- [Ubuntu 14.10 (Utopic Unicorn) 64bit](https://old-releases.ubuntu.com/releases/14.10/ubuntu-14.10-desktop-amd64.iso)
+- [Ubuntu 14.04 (Trusty Tahr) 64bit](https://old-releases.ubuntu.com/releases/14.04.6/ubuntu-14.04.6-desktop-amd64.iso)
+- [Ubuntu 13.10 (Saucy Salamander) 64bit](https://old-releases.ubuntu.com/releases/13.10/ubuntu-13.10-desktop-amd64.iso)
+- [Ubuntu 13.04 (Raring Ringtail) 64bit](https://old-releases.ubuntu.com/releases/13.04/ubuntu-13.04-desktop-amd64.iso)
+- [Ubuntu 12.10 (Quantal Quetzal) 64bit](https://old-releases.ubuntu.com/releases/12.10/ubuntu-12.10-desktop-amd64.iso)
+- [Ubuntu 12.04 (Precise Pangolin) 64bit](https://old-releases.ubuntu.com/releases/12.04.5/ubuntu-12.04.5-desktop-amd64.iso)
+- [Ubuntu 11.10 (Oneiric Ocelot) 64bit](https://old-releases.ubuntu.com/releases/11.10/ubuntu-11.10-desktop-amd64.iso)
+- [Ubuntu 11.04 (Natty Narwhal) 64bit](https://old-releases.ubuntu.com/releases/11.04/ubuntu-11.04-desktop-amd64.iso)
+- [Ubuntu 10.10 (Maverick Meerkat) 64bit](https://old-releases.ubuntu.com/releases/10.10/ubuntu-10.10-desktop-amd64.iso)
+- [Ubuntu 10.04 (Lucid Lynx) 64bit](https://old-releases.ubuntu.com/releases/10.04.4/ubuntu-10.04.4-desktop-amd64.iso)
+- [Ubuntu 9.10 (Karmic Koala) 64bit](https://old-releases.ubuntu.com/releases/9.10/ubuntu-9.10-desktop-amd64.iso)
+- [Ubuntu 9.04 (Jaunty Jackalope) 64bit](https://old-releases.ubuntu.com/releases/9.04/ubuntu-9.04-desktop-amd64.iso)
+- [Ubuntu 8.10 (Intrepid Ibex) 64bit](https://old-releases.ubuntu.com/releases/8.10/ubuntu-8.10-desktop-amd64.iso)
+- [Ubuntu 8.04 (Hardy Heron) 64bit](https://old-releases.ubuntu.com/releases/8.04.4/ubuntu-8.04.4-desktop-amd64.iso)
+- [Ubuntu 7.10 (Gutsy Gibbon) 64bit](https://old-releases.ubuntu.com/releases/7.10/ubuntu-7.10-desktop-amd64.iso)
+- [Ubuntu 7.04 (Feisty Fawn) 64bit](https://old-releases.ubuntu.com/releases/7.04/ubuntu-7.04-desktop-amd64.iso)
+- [Ubuntu 6.10 (Edgy Eft) 64bit](https://old-releases.ubuntu.com/releases/6.10/ubuntu-6.10-desktop-amd64.iso)
+- [Ubuntu 6.06 (Dapper Drake) 64bit](https://old-releases.ubuntu.com/releases/6.06/ubuntu-6.06.1-desktop-amd64.iso)
+- [Ubuntu 5.10 (Breezy Badger) 64bit](https://old-releases.ubuntu.com/releases/5.10/ubuntu-5.10-install-amd64.iso)
+- [Ubuntu 5.04 (Hoary Hedgehog) 64bit](https://old-releases.ubuntu.com/releases/5.04/ubuntu-5.04-install-amd64.iso)
+- [Ubuntu 4.10 (Warty Warthog) 64bit](https://old-releases.ubuntu.com/releases/warty/warty-release-install-amd64.iso)
+
 
 
 ## Debian <img src='https://www.debian.org/logos/openlogo-nd.svg' width=25>
 (Please note: Debian 4 Etch uses Netinst, I couldn't find a DVD iso!)
 
-### Debian 12
-
-Latest:
+### Latest:
 - [Debian 12.9 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.9.0-amd64-DVD-1.iso)
----
+### Older
 - [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/11.0.0/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso)
 - [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso)
 - [Debian 9 (Stretch) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/9.13.0/amd64/iso-dvd/debian-9.13.0-amd64-DVD-1.iso)
@@ -96,13 +105,14 @@ Latest:
 
 ## Fedora <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg' width=25>
 
-- [Fedora 41 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso)
+- [Fedora 41 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
 
 ## Red Star OS (Korean) <img src='https://upload.wikimedia.org/wikipedia/commons/e/eb/Red_Star_OS_Logo.svg' width=25>
 - [Red Star OS 3.0 32bit](https://drive.usercontent.google.com/download?id=1G2hLOXBR44ZT2dOyC7HkVrplqrsenwtA&export=download&authuser=0&confirm=t&uuid=8f2bac73-9ae1-4f50-80ff-9609b35cccfe&at=AN_67v0h0CTaKL5YBEOcDRGZSI9v%3A1730294873983)
 
 ## I Use Arch BTW (haha, no) <img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width=25>
 
+- [Arch 2025.2.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.02.01/)
 - [Arch 2025.1.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.01.01/)
 - [Arch 2024.12.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.12.01/archlinux-2024.12.01-x86_64.iso)
 - [Arch 2024.11.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.11.01/archlinux-2024.11.01-x86_64.iso)
