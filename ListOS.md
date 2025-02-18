@@ -1,6 +1,6 @@
 # ListOS
 
-***Latest revision:*** _16-2-2024_ at _18:00_
+***Latest revision:*** _18-2-2024_ at _17:45_
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
@@ -105,7 +105,50 @@ Latest:
 
 ## Fedora <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg' width=25>
 
-- [Fedora 41 64bit](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
+### Latest:
+- [Fedora 41 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
+
+### Older:
+- [Fedora 40 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.5.iso)
+- [Fedora 39 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.6.iso)
+- [Fedora 38 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso)
+- [Fedora 37 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso)
+- [Fedora 36 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/36/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-36-1.5.iso)
+- [Fedora 35 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/35/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-35-1.2.iso)
+- [Fedora 34 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/34/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-34-1.2.iso)
+- [Fedora 33 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/33/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33-1.2.iso)
+- [Fedora 32 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/32/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-32-1.6.iso)
+- [Fedora 31 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/31/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-31-1.9.iso)
+- [Fedora 30 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/30/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-30-1.2.iso)
+- [Fedora 29 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso)
+- [Fedora 28 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/28/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-28-1.1.iso)
+- [Fedora 27 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/27/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-27-1.6.iso)
+- [Fedora 26 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/26/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-26-1.5.iso)
+- [Fedora 25 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/25/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-25-1.3.iso)
+- [Fedora 24 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/24/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-24-1.2.iso)
+- [Fedora 23 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/23/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-23-10.iso)
+- [Fedora 22 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/22/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-22-3.iso)
+- [Fedora 21 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/21/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-21-5.iso)
+- [Fedora 20 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/20/Live/x86_64/Fedora-Live-Desktop-x86_64-20-1.iso)
+- [Fedora 19 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/19/Live/x86_64/Fedora-Live-Desktop-x86_64-19-1.iso)
+- [Fedora 18 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/18/Live/x86_64/Fedora-18-x86_64-Live-Desktop.iso)
+- [Fedora 17 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/17/Live/x86_64/Fedora-17-x86_64-Live-Desktop.iso)
+- [Fedora 16 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/16/Live/x86_64/Fedora-16-x86_64-Live-Desktop.iso)
+- [Fedora 15 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/15/Live/x86_64/Fedora-15-x86_64-Live-Desktop.iso)
+- [Fedora 14 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/14/Fedora/x86_64/iso/Fedora-14-x86_64-DVD.iso)
+- [Fedora 13 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/13/Fedora/x86_64/iso/Fedora-13-x86_64-DVD.iso)
+- [Fedora 12 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/12/Fedora/x86_64/iso/Fedora-12-x86_64-DVD.iso)
+- [Fedora 11 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/11/Fedora/x86_64/iso/Fedora-11-x86_64-DVD.iso)
+- [Fedora 10 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/10/Fedora/x86_64/iso/Fedora-10-x86_64-DVD.iso)
+- [Fedora 9 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/9/Fedora/x86_64/iso/Fedora-9-x86_64-DVD.iso)
+- [Fedora 8 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/8/Fedora/x86_64/iso/Fedora-8-x86_64-DVD.iso)
+- [Fedora 7 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/7/Fedora/x86_64/iso/Fedora-7-x86_64-DVD.iso)
+- [Fedora Core 6 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/6/x86_64/iso/FC-6-x86_64-DVD.iso)
+- [Fedora Core 5 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/5/x86_64/iso/FC-5-x86_64-DVD.iso)
+- [Fedora Core 4 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/4/x86_64/iso/FC4-x86_64-DVD.iso)
+- [Fedora Core 3 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/3/x86_64/iso/FC3-x86_64-DVD.iso)
+- [Fedora Core 2 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/2/x86_64/iso/FC2-x86_64-DVD.iso)
+- [Fedora Core 1 (x86_64)](https://archives.fedoraproject.org/pub/archive/fedora/linux/core/1/x86_64/iso/yarrow-x86_64-disc1.iso)
 
 ## Red Star OS (Korean) <img src='https://upload.wikimedia.org/wikipedia/commons/e/eb/Red_Star_OS_Logo.svg' width=25>
 - [Red Star OS 3.0 32bit](https://drive.usercontent.google.com/download?id=1G2hLOXBR44ZT2dOyC7HkVrplqrsenwtA&export=download&authuser=0&confirm=t&uuid=8f2bac73-9ae1-4f50-80ff-9609b35cccfe&at=AN_67v0h0CTaKL5YBEOcDRGZSI9v%3A1730294873983)
@@ -140,6 +183,23 @@ Latest:
 
 - [MXLinux 23.5 64bit](https://sourceforge.net/projects/mx-linux/files/Final/Xfce/MX-23.5_x64.iso/download)
 
+## CentOS <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/CentOS_Graphical_Symbol.svg' width=25>
+
+### Latest:
+- [CentOS Stream 10 (x86_64)](https://mirror.imt-systems.com/centos-stream/10-stream/BaseOS/x86_64/iso/CentOS-Stream-10-latest-x86_64-dvd1.iso)
+
+### Older:
+- [CentOS Stream 9 (x86_64)](https://mirror.biznetgio.com/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso)
+- [CentOS 8.5.2111 (x86_64)](https://mirror.xtom.de/centos/8.5.2111/isos/x86_64/CentOS-8.5.2111-x86_64-dvd1.iso)
+- [CentOS 7.9.2009 (x86_64)](https://mirror.xtom.de/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)
+- [CentOS 6.10 (x86_64)](https://mirror.xtom.de/centos/6.10/isos/x86_64/CentOS-6.10-x86_64-bin-DVD1.iso)
+- [CentOS 5.11 (x86_64)](https://vault.centos.org/5.11/isos/x86_64/CentOS-5.11-x86_64-bin-DVD-1of2.iso)
+- [CentOS 4.9 (x86_64)](https://vault.centos.org/4.9/isos/x86_64/CentOS-4.9-x86_64-binDVD.iso)
+- [CentOS 3.9 (i386)](https://vault.centos.org/3.9/isos/i386/CentOS-3.9-i386-bin1of3.iso)
+- [CentOS 2.1 (i386)](https://vault.centos.org/2.1/isos/i386/CentOS-2.1-i386-bin1of3.iso)
+- [CentOS 1.0 (i386)](https://vault.centos.org/1.0/isos/i386/CentOS-1.0-i386-bin1.iso)
+
+---
 
 # Unix
 
