@@ -1,6 +1,6 @@
 # ListOS
 
-***Latest revision:*** _18-2-2024_ at _17:45_
+***Latest revision:*** _18-2-2025_ at _17:46_
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
