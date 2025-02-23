@@ -1,6 +1,6 @@
 # ListOS
 
-***Latest revision:*** _18-2-2025_ at _17:46_
+***Latest revision:*** _23-2-2025_ at _13:39_
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
@@ -30,7 +30,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 - [Ubuntu 24.10 (Oracular Oriole) 64bit](https://releases.ubuntu.com/oracular/ubuntu-24.10-desktop-amd64.iso)
 
 #### LTS
-- [Ubuntu 24.04.1 (Noble Numbat) 64bit](https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso)
+- [Ubuntu 24.04.2 (Noble Numbat) 64bit](https://mirror.nl.mirhosting.net/ubuntu-releases/24.04.2/ubuntu-24.04.2-desktop-amd64.iso)
 
 ### Older
 
