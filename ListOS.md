@@ -1,6 +1,6 @@
 # ListOS
 
-***Latest revision:*** _23-2-2025_ at _13:39_
+***Latest revision:*** _12-4-2025_ at _19:00_
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
@@ -8,17 +8,17 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
 ## Windows 8.1 <img src='https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg' width=25>
 
-- [Windows 8.1 En-US 32bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x32.iso?t=6be239ad-1675-4abb-b305-cb4427656b42&P1=1730377394&P2=601&P3=2&P4=MO4WWHi7SR1MeSjW2%2fqrUHYWj4K495E8hcPB9vbg%2bkF2Xt4UIPd%2fCuoc5vZkBUFqaZyaFIUKCe1wdAnLXRNtF72djO6akNgHoHd0jeBo9Yc1zqOIXY1Pk2d2keipQTHXlhjm3Y6qmahjE%2bSs6vCTi01mLiAqixfHPMtCRuR7v%2bBoJdThcJLrXKPiiHFg9tCKgsb%2flz3hbMzBuR6iZU2l%2bPXYf8tIuA6LH12Pv2FmGbQboXJ%2fZCPeYZiHq1bTwf9ACCyGa6c47uM5FGAF88SsTpi%2f%2fBct2sAXDaBtNgctLveEboYmQfWfl4EQzUVfCry5WL3R5JYCbwMonE97mO5CVA%3d%3d)
-- [Windows 8.1 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x64.iso?t=6be239ad-1675-4abb-b305-cb4427656b42&P1=1730377394&P2=601&P3=2&P4=ZwwGbWaIAr9kgHctLTP3Q7rJaPan44Oy%2byuaS%2bpa0nZO3YylPpYGGIBuu7MWnIDxtFgXOkXVUSLsRO%2fRxrWS6lKcU5RNqBVhT2lfsFSfcHxKvShURVWOcLFkG45cPkqN4eACRc6urfWHohUiPk6DIGadWYfQ%2fgfhYY9Dc%2fSueIUnHZ79iHCL5enndWyJhd4%2fvn24YCFeGRrdaRBwCkn7IMX%2b1BWEZSHu6pXFOmnv3wxCFJ%2fqtSDaXnpf40VaaRUP%2fMzw8wHGY2VrtDNalVtgv%2feIj1XC%2b1iOjG7xT7OY0m%2biYwQy3Eku8ZLZGDoa9axh1%2bLlKRSP2jalFQtAJ6Oegw%3d%3d)
+- [Windows 8.1 Pro En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win8.1_English_x64.iso?t=6f7b46f1-f588-4f1e-9127-b8ed04f33106&P1=1744563037&P2=601&P3=2&P4=cOTHIouRDxThegW1oNmYG5p9GLebOttwbhmi4ubv6l3XqnVbnOkEF6u9k2BMNqBxm8B6YSaEbWKxxKaafv5bxxfspvc%2b7cXcRH2vUHOOv0zMZdp5S5l0KINHleO%2f6KtK5qX2b6nWlS17OpvT8Fiw1yqfTx2%2bKuL%2bdBeBpwxmQjQZNp%2fNXrbi%2bawNXBk9l1A%2bOgkMd7fw2dicny3EQlkAhS3qsCR72WgueFu1lChZUnRekmIig0hVWCUdOiZpNjBFnrb5y3XGFeX4FR0UgR1MfZLA%2fCcfyvITsSCcQJSPPn105fwMxkVqyC0fMA3U3BSUUja1h91auuqqiCWdoUflrA%3d%3d)
 
 ## Windows 10 <img src='https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg' width=25>
 
-- [Windows 10 En-US 32bit](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x32v1.iso?t=1fae8075-bd19-4ac0-a196-7542852f3eef&P1=1730377539&P2=601&P3=2&P4=P%2b%2bZ4ioD9GRxUeRvpL0rtu%2f6lzvd2WDxlbIJurCtBi4KkRY%2fVITMU0o0KscZ9IbHiHBzfFiqAad%2fSn6dqadRDQzxZd2cA%2bU11M%2fbZKyw6v9G%2bOELrMTysp2J7XvO%2fa9DAgHU3IMBVzLXNSPqhfNKI3sLxU9%2bbRWr%2b6QEhdTvCJckx%2bMrX2MwtO80U9O3%2fJiyQ45q1HSzlv4yCqmv7jmqxb1eMY%2fMkitA77dZWPpjm5fAWeHQtdN8w8mNf6J%2bxLJM%2fOdKgiW15BcUwKeX93KK2CwGp%2fRduWKJo7YqjqVxWqykmhKN0j4ZmweCEXXq%2bKwAG7SFs9fTv8M3x%2f54hs3ZUQ%3d%3d)
-- [Windows 10 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=1fae8075-bd19-4ac0-a196-7542852f3eef&P1=1730377539&P2=601&P3=2&P4=TReCNnEhpNhOKaoI9eRBMrdZl6Ph63NcWRwSshjEkNYugeARgnW7X%2bad4NJDogD2CTQ1GPld6QB5Uuo3anyQOosse8K%2f9fOSsBVuO570QhB5uvrRzOfOjuiBwZmmbPlPik%2fISPsVrbGieT8Knkz%2bqd1WChGHptVHcWwo6%2f0HKqO%2fy8NI%2bpVLV8%2bYOc3bdOfD0okOSBPo9OU8y%2fHTaJdmC8WGz89uAxzIqeZJAI21rifJutxnt1rdb1V03l2mvtookxvd68JMETJOBkk8uLsKpfvlGrq3NTogEra3GZU5Kg4JUj%2baQ2FAGRCdZmQ9Jkq%2bJB0NLzooImgSyM79j3jqtw%3d%3d)
+- [Windows 10 En-US 64bit](https://drive.massgrave.dev/en-us_windows_10_consumer_editions_version_22h2_updated_nov_2024_x86_dvd_3eeacab9.iso)
 
-## Windows 11 <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg' width=25>
+## Windows 11 ***23H2*** <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg' width=25>
 
-- [Windows 11 En-US 64bit](https://software.download.prss.microsoft.com/dbazure/Win11_24H2_English_x64.iso?t=5dc384be-ce75-4efe-aed6-1c9097250a00&P1=1730377641&P2=601&P3=2&P4=LGvl4oVUItzb7ydsYRTZt6EzyeNuEI4fqwJYSkATj2MM%2fwDSkE5fKxDNXoZgMZFOoTthfeEi0LrbxdfzQ7w%2fxk6ni7u%2ff9oY8EMX%2bJlDg8EWveq0gniLhxKrNICEYPUbojOlEgU1nVqnlqw%2bGidQUwxuNGWd5QFaxMgZ00WeLk3oGfz9g%2fsEQ7KBSPW%2bBBMESCI1n9IAxdgCNqIGWGfEWDQOWgAhY0iqMrFXxSgvx5nO8z0NgUXMAMzt7%2fPFYwK6kmKT9PNRDNVf7H7xGkT0WrHPKZGbaSSdDIYjc4tzCfydzG5PPFPNYznG36YAepuBMsZ0MOGjKok2cUFolHlx4g%3d%3d) 
+- [Windows 11 En-US 64bit](https://drive.massgrave.dev/en-us_windows_11_consumer_editions_version_23h2_updated_nov_2024_x64_dvd_212bfc41.iso) 
+
+Windows 11 24H2 not available yet.
 
 # Linux <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' width="25">
 
@@ -80,7 +80,7 @@ This is a huuugeee list of direct downloads of OS'es directly to the iso's
 (Please note: Debian 4 Etch uses Netinst, I couldn't find a DVD iso!)
 
 ### Latest:
-- [Debian 12.9 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.9.0-amd64-DVD-1.iso)
+- [Debian 12.10 (Bookworm) 64bit](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.10.0-amd64-DVD-1.iso)
 ### Older
 - [Debian 11 (Bullseye) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/11.0.0/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso)
 - [Debian 10 (Buster) 64bit](https://cdimage.debian.org/mirror/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso)
@@ -154,19 +154,13 @@ Latest:
 - [Red Star OS 3.0 32bit](https://drive.usercontent.google.com/download?id=1G2hLOXBR44ZT2dOyC7HkVrplqrsenwtA&export=download&authuser=0&confirm=t&uuid=8f2bac73-9ae1-4f50-80ff-9609b35cccfe&at=AN_67v0h0CTaKL5YBEOcDRGZSI9v%3A1730294873983)
 
 ## I Use Arch BTW (haha, no) <img src='https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg' width=25>
-
-- [Arch 2025.2.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.02.01/)
-- [Arch 2025.1.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.01.01/)
-- [Arch 2024.12.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.12.01/archlinux-2024.12.01-x86_64.iso)
-- [Arch 2024.11.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.11.01/archlinux-2024.11.01-x86_64.iso)
-- [Arch 2024.10.01 64bit](https://geo.mirror.pkgbuild.com/iso/2024.10.01/archlinux-2024.10.01-x86_64.iso)
+- [Arch 2025.4.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.04.01/archlinux-2025.04.01-x86_64.iso)
+- [Arch 2025.3.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.03.01/archlinux-2025.03.01-x86_64.iso)
+- [Arch 2025.2.01 64bit](https://geo.mirror.pkgbuild.com/iso/2025.02.01/archlinux-2025.02.01-x86_64.iso)
 
 ## Kali Linux <img src='https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg' width=35>
-
-- [Kali Linux 24.04 32/64bits](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-amd64.iso)
-- [Kali Linux 24.03 32bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-i386.iso)
-- [Kali Linux 24.03 64bit](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
-- [Kali Linux Purple 64bit](https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-purple-amd64.iso)
+- [Kali Linux 2025.1a amd64](https://cdimage.kali.org/kali-2025.1a/kali-linux-2025.1a-installer-amd64.iso)
+- [Kali Linux Purple amd64](https://cdimage.kali.org/kali-2025.1a/kali-linux-2025.1a-installer-purple-amd64.iso)
 
 ## OpenSUSE <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg' width=25>
 
