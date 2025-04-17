@@ -1,6 +1,6 @@
 # ListOS
 
-***Latest revision:*** _12-4-2025_ at _19:00_
+***Latest revision:*** _17-4-2025_ at _19:39_
 
 This is a huuugeee list of direct downloads of OS'es directly to the iso's
 
@@ -27,13 +27,14 @@ Windows 11 24H2 not available yet.
 ### Latest
 
 #### Release
-- [Ubuntu 24.10 (Oracular Oriole) 64bit](https://releases.ubuntu.com/oracular/ubuntu-24.10-desktop-amd64.iso)
+- [Ubuntu 25.04 (Plucky Puffin)](https://releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso)
 
 #### LTS
 - [Ubuntu 24.04.2 (Noble Numbat) 64bit](https://mirror.nl.mirhosting.net/ubuntu-releases/24.04.2/ubuntu-24.04.2-desktop-amd64.iso)
 
 ### Older
-
+- [Ubuntu 24.10 (Oracular Oriole) 64bit](https://releases.ubuntu.com/oracular/ubuntu-24.10-desktop-amd64.iso)
+24.04.2 is above at the LTS section
 - [Ubuntu 23.10 (Mantic Minotaur) 64bit](https://releases.ubuntu.com/23.10/ubuntu-23.10-desktop-amd64.iso)
 - [Ubuntu 23.04 (Lunar Lobster) 64bit](https://releases.ubuntu.com/23.04/ubuntu-23.04-desktop-amd64.iso)
 - [Ubuntu 22.10 (Kinetic Kudu) 64bit](https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso)
@@ -106,9 +107,10 @@ Latest:
 ## Fedora <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg' width=25>
 
 ### Latest:
-- [Fedora 41 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
+- [Fedora 42 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/42/Workstation/x86_64/iso/Fedora-Workstation-Live-42-1.1.x86_64.iso)
 
 ### Older:
+- [Fedora 41 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso)
 - [Fedora 40 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.5.iso)
 - [Fedora 39 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.6.iso)
 - [Fedora 38 (x86_64)](https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso)
@@ -175,7 +177,7 @@ Latest:
 
 ## MXLinux <img src='https://mxlinux.org/wp-content/uploads/2019/01/MX-Menu-icon-pyramids.svg' width=25>
 
-- [MXLinux 23.5 64bit](https://sourceforge.net/projects/mx-linux/files/Final/Xfce/MX-23.5_x64.iso/download)
+- [MXLinux 23.6 64bit](https://sourceforge.net/projects/mx-linux/files/Final/Xfce/MX-23.6_x64.iso/download)
 
 ## CentOS <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/CentOS_Graphical_Symbol.svg' width=25>
 
